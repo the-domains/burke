@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[burke]]></title>
         <description><![CDATA[burke]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/burke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 12:33:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 12:36:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/burke/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5edd36e5-1ba0-4e47-9038-31ca64b1389b.jpg">]]></description>
+            <link>https://thegrid.ai/burke/90f420ec-ee26-4239-8e71-6851988da07f/index.html</link>
+            <guid isPermaLink="false">90f420ec-ee26-4239-8e71-6851988da07f</guid>
+            <pubDate>Fri, 05 Feb 2016 12:35:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The magestic Mt Fitz Roy ]]></title>
-            <description><![CDATA[<article><h1>The magestic Mt Fitz Roy </h1><p>of the Patagonia coming out of his chambers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/972510fe7fcda06835191c525826a00b88355746.jpg"></article>]]></description>
-            <link>undefinedthe-magestic-mt-fitz-roy/index.html</link>
+            <description><![CDATA[<article><h1>The magestic Mt Fitz Roy </h1><p>of the Patagonia coming out of his chambers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f033d2a1f9033e8ed941fce7b054c3d0811b839.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burke/the-magestic-mt-fitz-roy/index.html</link>
             <guid isPermaLink="false">144d8515-e168-433e-b7c7-cee0091e3220</guid>
             <pubDate>Fri, 05 Feb 2016 12:33:02 GMT</pubDate>
         </item>
